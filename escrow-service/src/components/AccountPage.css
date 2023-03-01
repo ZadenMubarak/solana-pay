@@ -1,0 +1,38 @@
+.account-page {
+    background-color: #F3F4F6;
+    color: #1F2937;
+    padding: 2rem;
+  }
+  
+  .account-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+  }
+  
+  .account-header-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  
+  .account-header-button {
+    background-color: #FBBF24;
+    border: none;
+    color: #FFFFFF;
+    font-size: 1.25rem;
+    font-weight: bold;
+    padding: 0.5rem 1rem;
+    border-radius: 0.25rem;
+  }
+  
+  .account-details form {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+  }
+  
+  .account-details label {
+    font-size: 1.25rem;
+    margin-bottom: 0.5rem
+  }  

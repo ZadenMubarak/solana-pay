@@ -1,0 +1,48 @@
+.create-transaction-page {
+    background-color: #1F2937;
+    color: #FFFFFF;
+    padding: 2rem;
+  }
+  
+  .create-transaction-page-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 2rem;
+  }
+  
+  .form-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1rem;
+  }
+  
+  label {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
+  
+  input[type="text"] {
+    padding: 0.5rem;
+    font-size: 1.25rem;
+    border-radius: 0.25rem;
+    border: none;
+    margin-bottom: 1rem;
+  }
+  
+  button {
+    padding: 0.75rem 1.5rem;
+    font-size: 1.25rem;
+    font-weight: bold;
+    border-radius: 0.25rem;
+    border: none;
+    background-color: #60A5FA;
+    color: #FFFFFF;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+  }
+  
+  button:hover {
+    background-color: #3B82F6;
+  }
+  

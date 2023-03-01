@@ -1,0 +1,42 @@
+.escrow-process-page {
+    background-color: #F3F4F6;
+    color: #1F2937;
+    padding: 2rem;
+  }
+  
+  .escrow-process-page-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 2rem;
+  }
+  
+  .process-steps {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .process-step {
+    display: flex;
+    align-items: center;
+    margin-bottom: 2rem;
+  }
+  
+  .step-number {
+    background-color: #FBBF24;
+    border-radius: 50%;
+    color: #FFFFFF;
+    font-size: 1.5rem;
+    font-weight: bold;
+    height: 2.5rem;
+    margin-right: 1.5rem;
+    width: 2.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .step-description {
+    font-size: 1.25rem;
+  }
+  

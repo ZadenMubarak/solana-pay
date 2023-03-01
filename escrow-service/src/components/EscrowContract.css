@@ -1,0 +1,47 @@
+.escrow-contract-page {
+    background-color: #1F2937;
+    color: #FFFFFF;
+    padding: 2rem;
+  }
+  
+  .escrow-contract-page-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 2rem;
+  }
+  
+  .contract-details {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .detail-group {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+  
+  .detail-label {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-right: 1rem;
+    width: 10rem;
+  }
+  
+  .detail-value {
+    font-size: 1.25rem;
+  }
+  
+  .status-pending {
+    color: #FBBF24;
+  }
+  
+  .status-confirmed {
+    color: #34D399;
+  }
+  
+  .status-cancelled {
+    color: #EF4444;
+  }
+  
