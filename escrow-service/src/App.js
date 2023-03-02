@@ -6,6 +6,7 @@ import CreateTransaction from './components/CreateTransaction';
 import EscrowContract from './components/EscrowContract';
 import EscrowProcess from './components/EscrowProces';
 import AccountPage from './components/AccountPage';
+import SettingsPage from './components/SettingsPage';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
           <Route path='/transactions' element={<CreateTransaction/>}/>
           <Route path='/contract' element={<EscrowContract/>} />
           <Route path='/process' element={<EscrowProcess />}/>
+          <Route path='/settings' element={<SettingsPage />} />
         </Routes>
       </BrowserRouter>
       

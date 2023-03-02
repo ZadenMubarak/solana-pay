@@ -1,0 +1,27 @@
+.settings-page {
+    background-color: #f3f4f6;
+    color: #1f2937;
+    padding: 2rem;
+  }
+  
+  .settings-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+  }
+  
+  .settings-header-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  
+  .settings-header-button {
+    background-color: #fbbf24;
+    border: none;
+    color: #ffffff;
+    font-size: 1.25rem;
+    font-weight: bold;
+    padding: 0.5rem 1rem;
+    border:#1f2937;
+}
